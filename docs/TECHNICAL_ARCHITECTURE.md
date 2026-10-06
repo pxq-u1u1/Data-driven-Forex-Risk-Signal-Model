@@ -1,6 +1,6 @@
 # ReAct-based collaborative financial hedging decision support
 
-This document summarises the technical scheme in Section 4.2 of the RiskFX business plan. It describes how reasoning, financial tools and collaborative research are organised around FX risk assessment. Backend implementation and training code are outside this release.
+It describes how reasoning, financial tools and collaborative research are organised around FX risk assessment. Backend implementation and training code are outside this release.
 
 ## Data and analytical inputs
 
