@@ -89,6 +89,6 @@ The example needs no credentials or external services. Its synthetic cash flows 
 
 ## Project context
 
-Developed as a team project for the 20th Citi Financial Innovation Application Competition. Xiuqi Pu served as overall project lead, coordinating a 12-member cross-disciplinary team across financial requirements, product design, technical collaboration and project delivery. The project received a national third prize and placed in the national top 20.
+Developed as a team project for the 20th Citi Financial Innovation Application Competition. The project received a national third prize and placed in the national top 20.
 
 RiskFX is an academic prototype for research and decision support. It does not execute live trades or provide investment advice. Market-data access is subject to provider authorisation; this release does not distribute provider credentials, licensed market datasets or model weights.
