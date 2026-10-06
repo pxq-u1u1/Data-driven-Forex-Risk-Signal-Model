@@ -1,0 +1,4 @@
+currency,signed_amount_fc,cny_per_fc
+USD,1000000,7.20
+USD,-400000,7.20
+EUR,-300000,7.80
